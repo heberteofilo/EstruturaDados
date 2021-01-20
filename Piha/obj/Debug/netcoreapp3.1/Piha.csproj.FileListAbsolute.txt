@@ -1,0 +1,13 @@
+E:\PROJETO C#\APRENDENDO\Piha\Piha\bin\Debug\netcoreapp3.1\Piha.exe
+E:\PROJETO C#\APRENDENDO\Piha\Piha\bin\Debug\netcoreapp3.1\Piha.deps.json
+E:\PROJETO C#\APRENDENDO\Piha\Piha\bin\Debug\netcoreapp3.1\Piha.runtimeconfig.json
+E:\PROJETO C#\APRENDENDO\Piha\Piha\bin\Debug\netcoreapp3.1\Piha.runtimeconfig.dev.json
+E:\PROJETO C#\APRENDENDO\Piha\Piha\bin\Debug\netcoreapp3.1\Piha.dll
+E:\PROJETO C#\APRENDENDO\Piha\Piha\bin\Debug\netcoreapp3.1\Piha.pdb
+E:\PROJETO C#\APRENDENDO\Piha\Piha\obj\Debug\netcoreapp3.1\Piha.csprojAssemblyReference.cache
+E:\PROJETO C#\APRENDENDO\Piha\Piha\obj\Debug\netcoreapp3.1\Piha.AssemblyInfoInputs.cache
+E:\PROJETO C#\APRENDENDO\Piha\Piha\obj\Debug\netcoreapp3.1\Piha.AssemblyInfo.cs
+E:\PROJETO C#\APRENDENDO\Piha\Piha\obj\Debug\netcoreapp3.1\Piha.csproj.CoreCompileInputs.cache
+E:\PROJETO C#\APRENDENDO\Piha\Piha\obj\Debug\netcoreapp3.1\Piha.dll
+E:\PROJETO C#\APRENDENDO\Piha\Piha\obj\Debug\netcoreapp3.1\Piha.pdb
+E:\PROJETO C#\APRENDENDO\Piha\Piha\obj\Debug\netcoreapp3.1\Piha.genruntimeconfig.cache
